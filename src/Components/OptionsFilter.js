@@ -1,3 +1,11 @@
+/*
+  [
+    { value: undefined, name: 'Cualquier tamaño' },
+    { value: 10, name: 'Hotel pequeño' },
+    { value: 20, name: 'Hotel mediano' },
+    { value: 30, name: 'Hotel grande' }
+  ]
+*/
 import React from 'react';
 class OptionsFilter extends React.Component
 {
