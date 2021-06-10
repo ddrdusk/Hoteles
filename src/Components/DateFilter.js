@@ -24,4 +24,4 @@ class Hero extends React.Component
     )
   }
 }
-export default Boton;
+export default Hero;
