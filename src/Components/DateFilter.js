@@ -8,7 +8,7 @@
   }
 */
 import React from 'react';
-class Hero extends React.Component
+class DateFilter extends React.Component
 {
   render()
   {
@@ -24,4 +24,4 @@ class Hero extends React.Component
     )
   }
 }
-export default Hero;
+export default DateFilter;
